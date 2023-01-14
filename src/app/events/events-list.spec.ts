@@ -1,10 +1,5 @@
 import { EventListComponent } from './events-list.components';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-import {
-  BrowserDynamicTestingModule,
-  platformBrowserDynamicTesting,
-} from '@angular/platform-browser-dynamic/testing';
-import { FormBuilder, FormGroup } from '@angular/forms';
 import { CUSTOM_ELEMENTS_SCHEMA, NO_ERRORS_SCHEMA } from '@angular/core';
 describe('EventsListComponent', () => {
   let component: EventListComponent;
