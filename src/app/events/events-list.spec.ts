@@ -1,4 +1,4 @@
-import { EventListComponent } from './events-list.components';
+import { EventListComponent } from './events-list.component';
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { CUSTOM_ELEMENTS_SCHEMA, NO_ERRORS_SCHEMA } from '@angular/core';
 
